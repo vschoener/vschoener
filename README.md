@@ -53,6 +53,13 @@ This is something I usually do every day but for my free time, I have some ideas
 - Machine Learning
     -  [TODO] It's something I would like to discover.
 
+3. *Medium stories*
+
+I do love writing article to show how we can handle and setup stuff. I like helping people bringing my all expertise.
+
+[Check my Medium profile](https://medium.com/@VincentSchoener)
+
+
 
 ## Gaming 👾
 ---
