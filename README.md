@@ -49,7 +49,7 @@ This is something I usually do every day but for my free time, I have some ideas
 - Gaming
     - [TODO] Working on Unity to develop games 🧙🏻‍♂️, Because I love games remember?
 - Algorithmics
-    - I started playing around with HackerRank. It fills sometimes my brain is gonna fall apart ahah!
+    - I started playing around with codewars. It fills sometimes my brain is gonna fall apart ahah!
 - Machine Learning
     -  [TODO] It's something I would like to discover.
 
