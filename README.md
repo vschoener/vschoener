@@ -41,7 +41,7 @@ As I've done the major part and everything is running in production, I take my t
 This is something I usually do every day but for my free time, I have some ideas in my mind I would like to explore
 
 - Python
-    - In progress doing [codingame.com](codingame.com) challenges 
+    - In progress doing [codingame.com](http://www.codingame.com) challenges 
 - Gaming
     - [TODO] Working on Unity or Unreal to develop games 🧙🏻‍♂️, Because I love games remember?
 - Algorithmics
