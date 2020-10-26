@@ -41,13 +41,9 @@ As I've done the major part and everything is running in production, I take my t
 This is something I usually do every day but for my free time, I have some ideas in my mind I would like to explore
 
 - Python
-    - [TODO] I'm not a fan at the beginning but with time we change, so why not be open mind with this language and give it a try?
-- Ruby 
-    - [TODO] Ruby? Same as Python to be honest.
-- Databases Postgres and Mongodb
-    - To be honest, we lose values when we rely too much on our DB Architect and I need to review my skill, specially for the opti part.
+    - In progress doing [codingame.com](codingame.com) challenges 
 - Gaming
-    - [TODO] Working on Unity to develop games 🧙🏻‍♂️, Because I love games remember?
+    - [TODO] Working on Unity or Unreal to develop games 🧙🏻‍♂️, Because I love games remember?
 - Algorithmics
     - I started playing around with codewars. It fills sometimes my brain is gonna fall apart ahah!
 - Machine Learning
