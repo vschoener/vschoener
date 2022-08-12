@@ -16,9 +16,9 @@ To sum up:
 
 ## Current Status 😎
 ---- 
-I'm currently working for [Kapten](https://kapten.com/) as a FullStack Developer working on micro service environment with NodeJs/TypeScript.
+I'm currently working for [BackMarket](https://www.backmarket.fr/fr-fr) as a Senior Backend Engineer. We mainly use Python as our main language and other like Golang, minor TS and Elixir.
 
-The adventure is ending and I'm now open for a new position. I have a lot of free time and use it to learn and practice.
+I've succesffuly finished my eMBA (Master for Business and Entrepreneurship). Now I'd like to evolve as a Engineer Manager and create my own company.
 
 ## Side works 🧑🏻‍💻
 ---- 
@@ -31,30 +31,20 @@ This project has been build from scratch with severals micro services:
 - [Authentication](https://github.com/vschoener/auth.vincelivemix) service using Golang to practice (still under development)
 - GITHUB CI/CD
 - Traefik, Docker and Docker Compose for the deployment and architecture management (Private repo of course 😘)
-- Some APM using Grafana, Prometheus (still working on it).
-- [Admin](https://github.com/vschoener/admin.vincelivemix) Service on React as well under development too.
+- Some APM using Grafana, Prometheus.
 
-As I've done the major part and everything is running in production, I take my time to learn and finish the new services 💻
+As I've done the major part and everything is running in production, I take my time to learn and finish the new services 💻.
+Everyhing has been moved to Heroku/Vercel to save cost as I don't gain monay from it. So it's now quit unstable.
 
 2. **Learning and Reviewing**
 
-This is something I usually do every day but for my free time, I have some ideas in my mind I would like to explore
-
-- Python
-    - In progress doing [codingame.com](http://www.codingame.com) challenges 
-- Gaming
-    - [TODO] Working on Unity or Unreal to develop games 🧙🏻‍♂️, Because I love games remember?
-- Algorithmics
-    - I started playing around with codewars. It fills sometimes my brain is gonna fall apart ahah!
-- Machine Learning
-    -  [TODO] It's something I would like to discover.
+As I said, I've done a eMBA and I'm willing to improve my soft/hard skill to become an Engineer Manager.
 
 3. *Medium stories*
 
 I do love writing article to show how we can handle and setup stuff. I like helping people bringing my all expertise.
 
 [Check my Medium profile](https://medium.com/@VincentSchoener)
-
 
 
 ## Gaming 👾
