@@ -50,9 +50,13 @@ I do love writing article to show how we can handle and setup stuff. I like help
 ## Gaming 👾
 ---
 
-Yes, I play games and I'm mainly focus on World of Warcraft and with my team we are focus to be 1st for PVE HL content. 
-
-Here is my public log if you're interested https://www.warcraftlogs.com/character/id/40222084
+Yes, I play games but more in a chill way now. 
+- Gran turismo
+- Resident Evil
+- Final Fantasy
+- Some FPS (Apex, CS)
+- League of Legends
+- And other solo game to escape from reality :)
 
 ## Chill 🏃🏻‍♂️
 ---
